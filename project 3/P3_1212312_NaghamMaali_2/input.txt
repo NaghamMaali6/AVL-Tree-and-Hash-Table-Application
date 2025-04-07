@@ -1,0 +1,3 @@
+welcome to Data structure and Algorithms course
+Welcome Home
+Data Structure is fun 
